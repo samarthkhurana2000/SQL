@@ -2,4 +2,4 @@
 My SQL projects.
 A collection of SQL projects using queries like joins, window functions, CTE, case when, and more. 
 
-**HR Dataset**: Human resource analytics using basic queries like concat, table calculations, joins, grouping.
+**HR Dataset**: Human resource analytics using basic queries like concat, case when,table calculations, joins, grouping.
